@@ -15,7 +15,7 @@
 ## 食用方式
 
 1. `pip install -r requirements.txt`
-2. `python typroa.py --help`
+2. `python typora.py --help`
 3. 阅读帮助文档及使用。
 4. 修改导出的 License.js。
 5. 替换原目录下的 app.asar。
@@ -26,7 +26,7 @@
 ## 示例
 
 ```shell
-> python typroa.py --help
+> python typora.py --help
 usage: typora.py [-h] [-u] [-f] asarPath dirPath
 
 [extract and decryption / pack and encryption] app.asar file from [Typora].
